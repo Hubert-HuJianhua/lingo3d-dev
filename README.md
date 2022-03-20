@@ -5,5 +5,4 @@
 
 ---
 
-
-[![downloads](https://www.npmjs.com/package/lingo3d-react)](https://www.npmjs.com/package/lingo3d-react)
+[npm-url]: https://www.npmjs.com/package/lingo3d-react
