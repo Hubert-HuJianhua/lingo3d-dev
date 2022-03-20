@@ -4,7 +4,7 @@
 
 
 ---
- [![npm][npm-image]][npm-url]
+### [![npm][npm-image]][npm-url]
 [npm-image]: https://github.com/Hubert-HuJianhua/lingo3d-dev/blob/main/image/npm.svg
 [npm-url]: https://www.npmjs.com/package/lingo3d-react
 
