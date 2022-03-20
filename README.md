@@ -19,7 +19,7 @@ Lingo3D is a web-first 3d game development library with React integration.
 
 
 ## Game Examples
-<img src="https://github.com/Hubert-HuJianhua/lingo3d-dev/blob/main/image/universe.gif" height="270px">  <img src="https://github.com/Hubert-HuJianhua/lingo3d-dev/blob/main/image/shotting.gif" height="270px">
+<img src="https://github.com/Hubert-HuJianhua/lingo3d-dev/blob/main/image/universe.gif" height="270px">  <img src="https://github.com/Hubert-HuJianhua/lingo3d-dev/blob/main/image/shotting.gif" height="270px">  <img src="https://github.com/Hubert-HuJianhua/lingo3d-dev/blob/main/image/gun.gif" height="270px">
 
 
 ### Get the GitHub readme for an yarn package
