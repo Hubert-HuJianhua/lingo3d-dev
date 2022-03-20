@@ -5,4 +5,7 @@
 
 ---
 
-[npm-url]: https://www.npmjs.com/package/lingo3d-react
+[![npm][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/get-package-readme.svg
+[npm-url]: https://npmjs.org/package/get-package-readme
