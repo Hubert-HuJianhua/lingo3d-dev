@@ -5,9 +5,14 @@
 
 ---
 
-# get-package-readme [![npm][npm-image]][npm-url]
-[npm-image]: https://github.com/Hubert-HuJianhua/lingo3d-dev/blob/main/image/npm.svg
-[npm-url]: https://www.npmjs.com/package/lingo3d-react
+# get-package-readme
+
+<div>
+    [![npm][npm-image]][npm-url]
+    [npm-image]: https://github.com/Hubert-HuJianhua/lingo3d-dev/blob/main/image/npm.svg
+    [npm-url]: https://www.npmjs.com/package/lingo3d-react
+</div>
+
 
 
 ### Get the GitHub readme for an npm package
