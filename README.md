@@ -27,12 +27,12 @@ Lingo3D is a web-first 3d game development library with React integration.
 
 ### Installation
 
-### yarn install
+- yarn install
 
 ```bash
 yarn add lingo3d-react
 ```
-### npm install
+- npm install
 ```bash
 npm install lingo3d-react
 ```
