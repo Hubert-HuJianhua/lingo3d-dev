@@ -38,6 +38,6 @@ npm install lingo3d-react
 ```
 
 ## Documentation
-- [Documentation](lingo3d.com/documentation)
+- [Documentation](https://www.lingo3d.com/documentation/)
 - [lingo3d](https://www.npmjs.com/package/lingo3d)
 - [lingo3d-react](https://www.npmjs.com/package/lingo3d-react)
